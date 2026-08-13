@@ -39,7 +39,7 @@
 
 ### Product toolkit
 
-`Product discovery` Â· `PRDs` Â· `Roadmaps` Â· `Prioritisation` Â· `Experiment design` Â· `Metrics` Â· `SQL` Â· `APIs` Â· `AI evaluation` Â· `Rapid prototyping`
+`Product discovery` · `PRDs` · `Roadmaps` · `Prioritisation` · `Experiment design` · `Metrics` · `SQL` · `APIs` · `AI evaluation` · `Rapid prototyping`
 
 ### Currently
 
