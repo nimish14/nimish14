@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Hi, I'm Nimish Pandey</h1>
 
 <p align="center">
-  <strong>Product Manager Â· AI Product Builder Â· IIM Sambalpur</strong>
+  <strong>Product Manager · AI Product Builder · IIM Sambalpur</strong>
 </p>
 
 <p align="center">
